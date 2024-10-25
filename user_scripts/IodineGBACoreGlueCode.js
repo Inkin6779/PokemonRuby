@@ -16,7 +16,7 @@
  *
  */
 var games = {
-    "gamefile":"Game Name"
+    "MPA":"Mario Party Advance"
 
 };
 var Iodine = null;
